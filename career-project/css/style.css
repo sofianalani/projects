@@ -1,0 +1,60 @@
+/* this css file is empty so you can create your own styles and coloring. 
+Please take a look at the example file CSS for inspiration.
+*/
+h3 {
+  font-style: oblique;
+}
+
+h4#why-i-like-this-career{
+  font-style: normal;
+}
+
+h4{
+  font-style: oblique;
+}
+
+h3 {
+  color:	#dfc4a8
+}
+p {
+  color: saddlebrown;
+}
+li {
+  color: #856E35;
+}
+dt {
+  color: lightsteelblue;
+}
+h4 {
+  color: #856E35;
+}
+img {
+  border-radius: 10%;
+}
+h3{
+  font-size: x-large;
+}
+dt{
+  font-size: larger;
+}
+p {
+  font-size: medium;
+}
+a{
+  color: #856E35;
+}
+figure.fashion img {
+  width: 400px;
+}
+figure.woman-g71c02dede_1280 img{
+  width: 400px;
+}
+figure.catwalk img{
+  width: 600px;
+}
+h2{
+  color: lightsteelblue;
+}
+h1{
+  color: saddlebrown;
+}
